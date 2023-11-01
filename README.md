@@ -1,2 +1,4 @@
 # DeepLearning_SimpleNet
-Projeto de estrutura básica da anatomia de uma rede neural
+Projeto de estrutura básica de uma rede neural
+
+Deep Learning para aplicações de AI com PyTorch e Lightning
